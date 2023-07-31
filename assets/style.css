@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-item .nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.89em !important;
+  font-weight: normal !important;
+  color: rgb(47, 55, 58) !important;
+  letter-spacing: normal !important;
+}
+.free_trial_button {
+  border: 1px solid #f66337;
+  background: none;
+  border-radius: 30px;
+  color: #f66337;
+}
+.professional_website_content {
+  color: rgb(23, 28, 52);
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 62.4px;
+  font-style: normal;
+}
+.home_page_content {
+  color: rgb(23, 28, 52);
+  font-size: 1.2em;
+  font-weight: 500;
+  font-style: normal;
+}
+.build_websites_btn {
+  background: #f66337;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 0.95em;
+}
+.dropdown-menu .dropdown-item {
+  color: #353c3f;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.9em;
+  font-size: 0.95em;
+  font-weight: 400;
+  font-style: normal;
+}
+.dropdown-menu .dropdown-item:hover {
+  color: rgb(243, 95, 43);
+  background: none;
+}
+.website_builder_description {
+  color: #353c3f;
+  font-size: 0.8em;
+  font-weight: 400;
+  font-style: normal;
+}
+.website_builder_description:hover {
+  color: rgb(66, 71, 112);
+}
+.dropdown-menu {
+  border: none !important;
+  box-shadow: 0px 0px 15px 0.1px #dcd9d9 !important;
+}
+.dropdown-menu {
+  display: none;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.duda_powers {
+  padding-top: 7.5%;
+  color: black;
+  font-size: 2.1em;
+  font-style: normal;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+.orange {
+  color: #f66337;
+}
+.join_us_a{
+    color: #f66337;
+}
+.duda_powers_description{
+  color: #353c3f;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2em;
+  font-weight: 400;
+  padding-top: 5px;
+}
+.top_performing_websites{
+  /* color: #353c3f;/ */
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5em;
+  font-weight: 700;
+  line-height: 56px;
+}
+.top_performing_websites_p{
+    color: #353c3f;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+}
+.top_performing_websites_p_bold{
+    color: #171C34;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  font-weight: 700;
+}
+.seo_ready{
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.1em;
+    font-weight: 600;
+    line-height: 30px;
+}
+.seo_ready_p{
+    color: #353c3f;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+}
+.responsive_top_space{
+    padding-top: 10%;
+}
